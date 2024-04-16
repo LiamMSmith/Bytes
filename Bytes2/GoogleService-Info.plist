@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>We need access to your microphone to record audio.</string>
+	<key>CLIENT_ID</key>
+	<string>514060502823-15erbncl7ghemkdfs8ab7s616tt3nhnu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.514060502823-15erbncl7ghemkdfs8ab7s616tt3nhnu</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAxy3ciX_a8Mzr6utfasr0rM9EjGOqJ5Ho</string>
+	<key>GCM_SENDER_ID</key>
+	<string>514060502823</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Jewel.Bytes2</string>
+	<key>PROJECT_ID</key>
+	<string>bytes-6a675</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bytes-6a675.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:514060502823:ios:e28d6e5a57431dff32cb02</string>
+</dict>
+</plist>
